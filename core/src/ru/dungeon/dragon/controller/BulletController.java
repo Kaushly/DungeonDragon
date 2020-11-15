@@ -1,8 +1,9 @@
-package ru.dungeon.dragon;
+package ru.dungeon.dragon.controller;
 
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
+import ru.dungeon.dragon.Bullet;
 
 public class BulletController {
     private static final int MAX_BULLET = 100;
